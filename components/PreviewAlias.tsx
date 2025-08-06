@@ -1,3 +1,5 @@
+"use client"
+
 import { AliasProp } from "@/types/types";
 import styled from "styled-components";
 
